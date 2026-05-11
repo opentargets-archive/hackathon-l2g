@@ -1,3 +1,6 @@
+> [!WARNING]
+> **Not actively maintained.** This repository was developed as part of the [2025 Open Targets Hackathon](https://www.opentargets.org/hackathon) and is not under active maintenance.
+
 # Open Targets Hackathon – Improving L2G
 
 This repository contains code developed during the Open Targets Hackathon for the project “New ML approach for L2G problem”.
